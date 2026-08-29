@@ -7,8 +7,8 @@
 | Name | KU ID |
 |---|---|
 | Christian Villads Egelund Hansen | mpn114 |
-| Natacha Julie Drozdziewicz Schou | [KU-ID] |
-| Gustav Nemeth | [KU-ID] |
+| Natacha Julie Drozdziewicz Schou | wmb315 |
+| Gustav Nemeth | rgh514 |
 | Anton Bering Bryder | cxk646 |
 
 ## What this submission contains
